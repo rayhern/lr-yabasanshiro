@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# This script is supposedly better than yabasanshiro. (yabause standalone)
+# This script is supposedly better than lr-yabasanshiro. (yabasanshiro standalone)
 #
 sudo apt update 
 sudo apt install -y git python-pip cmake build-essential protobuf-compiler libprotobuf-dev libsecret-1-dev libssl-dev libsdl2-dev libboost-all-dev 
